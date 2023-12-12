@@ -1,0 +1,14 @@
+.imageCard {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+}
+
+.canvas {
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+}
+
+.error {
+  color: red;
+}
